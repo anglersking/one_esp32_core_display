@@ -48,14 +48,12 @@
 
 | 信号 | GPIO |
 |------|------|
-| — | GPIO2 |
-| — | GPIO4 |
-| — | GPIO5 |
-| — | GPIO15 |
-| — | GPIO18 |
-| — | GPIO22 |
-
-> 具体信号分配（MOSI / CLK / DC / CS / RST 等）待补充。
+| SCLK | GPIO15 |
+| MOSI | GPIO2 |
+| CS | GPIO5 |
+| DC | GPIO4 |
+| RST | GPIO18 |
+| BL（背光） | GPIO22 |
 
 #### 按键 / 旋钮检测
 
