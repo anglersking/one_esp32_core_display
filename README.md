@@ -23,7 +23,10 @@
 | **兼容** | LVGL 图形框架、Arduino、ESP-IDF |
 
 ---
+## 购买
 
+[点击直达淘宝购买链接](https://e.tb.cn/h.82tw5LEhC7DBiVF?tk=QbM3gG46bmf) 「eps32 lvgl开发板」
+---
 ## 图片
 
 | 实物（正面） | 实物（背面） |
